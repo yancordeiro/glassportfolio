@@ -96,8 +96,9 @@ body{
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     width: 239px;
+    gap: 15px;
 }
 .circle{
     width: 15px;
